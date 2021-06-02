@@ -6,7 +6,7 @@ NUC7i5BNK
 * Intel Iris Plus Graphic 640
 * ALC283
 
-Ref: 
+Ref:  
 https://dortania.github.io/OpenCore-Install-Guide/  
 https://github.com/corpnewt/MountEFI  
 https://github.com/corpnewt/ProperTree  
@@ -28,22 +28,22 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 
 Mount EFI partition with MountEFI
 
-Setting up core files
+Setting up core files  
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html
 
-Gathering files
+Gathering files  
 https://dortania.github.io/OpenCore-Install-Guide/ktext.html#kexts
 
-Configuring plist for Kaby Lake
+Configuring plist for Kaby Lake  
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/kaby-lake.html#starting-point
 
-Sanity check
+Sanity check  
 https://opencore.slowgeek.com/
 
-Post-installation 
+Post-installation  
 https://dortania.github.io/OpenCore-Post-Install/
-hackintools 
+hackintools  
 
-Other tools:
+Other tools:  
 https://github.com/exelban/stats
 
