@@ -1,8 +1,10 @@
 Hackintosh Catalina 10.15.7 (19H1217)
+
 NUC7i5BNK
 ## Spec:
-* Intel Core i5 7260U Kaby Lake
-* 
+* Intel Core i5 7260U 2.20Ghz Kaby Lake 
+* Intel Iris Plus Graphic 640
+* ALC283
 
 Ref: 
 https://dortania.github.io/OpenCore-Install-Guide/
