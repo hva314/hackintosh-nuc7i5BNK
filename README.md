@@ -7,12 +7,12 @@ NUC7i5BNK
 * ALC283
 
 Ref: 
-https://dortania.github.io/OpenCore-Install-Guide/
-https://github.com/corpnewt/MountEFI
-https://github.com/corpnewt/ProperTree
-https://github.com/corpnewt/GenSMBIOS
-https://opencore.slowgeek.com/
-https://github.com/headkaze/Hackintool/releases
+https://dortania.github.io/OpenCore-Install-Guide/  
+https://github.com/corpnewt/MountEFI  
+https://github.com/corpnewt/ProperTree  
+https://github.com/corpnewt/GenSMBIOS  
+https://opencore.slowgeek.com/  
+https://github.com/headkaze/Hackintool/releases  
 
 # Create boot USB on MAC
 Download Mac Installer
